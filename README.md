@@ -10,9 +10,10 @@ Com esse projeto de Formulário de Agendamento de Consulta, em que há o cadastr
 # Como Funciona 🎯
 <div>
   <ul>
-    <li>O admin poderá fazer o cadastro dos clientes, com as informações nome, e-mail, telefone, data do agendamento e qual especialidade médica desejada.
+    <li>O admin terá acesso a uma página inicial onde encontrará informações sobre o serviço de agendamento de consultas, com opções para inserir uma nova consulta ou visualizar as consultas agendadas.
+    <li>Poderá fazer o cadastro dos clientes, com as informações nome, e-mail, telefone, data do agendamento e qual especialidade médica desejada.
     <li>Esses dados serão armazenados em um banco de dados para referência futura. 
-    <li>Além disso, a aplicação pode ter recursos adicionais, como permitir o cancelamento ou reagendamento de consultas.      
+    <li>Além disso, a aplicação pode ter recursos adicionais, atualizar as informações, como também permitir o cancelamento ou reagendamento de consultas.      
     </li>  
   </ul>
 </div>
