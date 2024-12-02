@@ -19,7 +19,7 @@ Com esse projeto de Formulário de Agendamento de Consulta, em que há o cadastr
 </div>
 
 # Tecnologias 🛠️
-As seguintes ferramentas que foram utilizadas na contrução do projeto:
+As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
     <th>Backend</th>
