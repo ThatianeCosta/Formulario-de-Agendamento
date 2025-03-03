@@ -22,18 +22,18 @@ Esse repositório de Formulário de Agendamento de Consulta, foi desenvolvido pa
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
-    <th>Backend</th>
-  </thead>
-  <tbody>
+    <tbody>
+    <th>Python</th>
     <tr>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td>Tkinter</td>
+      <td>Tkkinter</td>
     </tr>
     <tr>
       <td>SQLite</td>
     </tr>
-  </tbody>
+    <tr>
+      <td>Back-end</td>
+    </tr>
+    </tbody>
+  </thead>
 </table>
 
