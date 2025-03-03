@@ -1,4 +1,4 @@
-# Formulario de Agendamento 👩🏻‍💻
+# Formulário de Agendamento 👩🏻‍💻
 Projeto de um Formulário de Agendamento de Consulta, desenvolvido em **Python**, utilizando a biblioteca **Tkinter** para a interface gráfica e **SQLite** para o gereciamento dos dados. A aplicação permite que os usuários agendem consultas de maneira simples e eficiente, armazenando as informações de forma organizada.
 
 <div>
