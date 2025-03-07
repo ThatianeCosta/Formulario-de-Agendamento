@@ -18,7 +18,7 @@ Esse repositório de Formulário de Agendamento de Consulta, foi desenvolvido pa
   </ul>
 </div>
 
-# Tecnologias 🛠️
+# Tecnologias ⚙
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
