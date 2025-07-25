@@ -25,7 +25,7 @@ As seguintes ferramentas que foram utilizadas na construção do projeto:
     <tbody>
     <th>Python</th>
     <tr>
-      <td>Tkkinter</td>
+      <td>Tkinter</td>
     </tr>
     <tr>
       <td>SQLite</td>
