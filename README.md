@@ -4,7 +4,7 @@ Projeto de um Formulário de Agendamento de Consulta, desenvolvido em **Python**
 <img src="https://github.com/user-attachments/assets/d0d948f8-54c1-4a2d-9850-64a25b3ecf28" width="600px" />
 
 # Sobre o Projeto 📄
-Esse repositório de Formulário de Agendamento de Consulta, foi desenvolvido para otimizar o processo de agendamento e gerenciamento de consultas médicas, proporcionando uma experiência prática tanto para os administradores quanto para os clientes. Além do cadastro inicial, a plataforma permite o acompanhamento das consultas agendadas, bem como a atualização e o gereciamento de mudanças nas marcações, garantindo um atendimento mais ágil e organizado.
+Esse repositório de Formulário de Agendamento de Consulta, foi desenvolvido para otimizar o processo de agendamento e gerenciamento de consultas médicas, proporcionando uma experiência prática tanto para os administradores quanto para os clientes. Além do cadastro inicial, a plataforma permite o acompanhamento das consultas agendadas, bem como a atualização e o gereciamento de mudanças nas marcações, garantindo um atendimento mais ágil e organizado
 
 # Como Funciona 🎯
 <div>
